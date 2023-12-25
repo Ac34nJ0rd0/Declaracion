@@ -1,0 +1,12 @@
+.contenedor{
+    text-align: right;
+}
+
+.imagen{
+    background-image: url(/Imagen\ de\ SI.png);
+    width: 30vw;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+   
+}
